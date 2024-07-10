@@ -1,4 +1,5 @@
-# React + TypeScript + Vite
+## TreandyLeather
+## For more details, visit the [FlatShare Backend Repository](https://github.com/saifulaija/trendy-pro-server).
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
